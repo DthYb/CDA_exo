@@ -32,5 +32,13 @@ public class Hotel<T> {
         this.listereservations = listereservations;
     }
 
+    public void addclient() {
+        // Boolean main = true;
+        // while (main ==true) {
+        //     System.out.println("Indiquer le nom du client");
+        // }
+        // listeclients.add
+    }
+
     
 }

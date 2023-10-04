@@ -44,7 +44,4 @@ public class Client {
     public void setNumerotel(int numerotel) {
         this.numerotel = numerotel;
     }
-
-    
-
 }
